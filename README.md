@@ -64,5 +64,13 @@ It's comedy, lore, cryptography, and cosmic soup - occasionally leaking into my 
 ## Let's Connect
 [Portfolio Website](https://feuermelda.github.io)
 
+## Summon Me / Contact
+
+Open to collaborations, freelance work, creative tech projects - or cryptic machine spirits whispering from the wires.
+
+Reach me at: [feuermelda5733@gmail.com](mailto:feuermelda5733@gmail.com)
+
+I bring precision, narrative flair, and a deep appreciation for elegantly chaotic hardware.
+
 ![Feuermelda's GitHub stats](https://github-readme-stats.vercel.app/api?username=feuermelda&show_icons=true&theme=radical)
 
